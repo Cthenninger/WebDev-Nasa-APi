@@ -1,0 +1,18 @@
+{
+  "name": "NASA API Brief",
+  "version": "1.0.0",
+  "description": "Basic NASA API usage guide for CS 290",
+  "main": "space.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charles Henninger",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.2",
+    "express-handlebars": "^2.0.1",
+    "express-session": "^1.11.3",
+    "mysql": "^2.8.0"
+  }
+}
